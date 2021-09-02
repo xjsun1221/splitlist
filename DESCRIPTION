@@ -1,0 +1,13 @@
+Package: splitlist
+Type: Package
+Title: Extract elements from a list
+Version: 0.1.0
+Author: Xiaojie Sun
+Maintainer: Xiaojie Sun <18763899370@163.com>
+Description: Extract elements from a list
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+RoxygenNote: 7.1.1
+VignetteBuilder: knitr
